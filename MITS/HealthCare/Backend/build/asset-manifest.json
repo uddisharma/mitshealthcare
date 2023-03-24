@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5bd060d.css",
+    "main.js": "/static/js/main.0bb1753d.js",
+    "static/js/787.d0ac22ec.chunk.js": "/static/js/787.d0ac22ec.chunk.js",
+    "static/media/loader.gif": "/static/media/loader.47c02e1de317c1581db4.gif",
+    "static/media/insta.webp": "/static/media/insta.e291349581f33a4f4b3e.webp",
+    "static/media/loading.gif": "/static/media/loading.805e3f4ff70a7ed16abb.gif",
+    "static/media/instagram.webp": "/static/media/instagram.eee5ef3f2824e5990fc3.webp",
+    "static/media/grow.gif": "/static/media/grow.c32c5dd57c16eb452a98.gif",
+    "static/media/background7.jpg": "/static/media/background7.f95f62599b21644c6a34.jpg",
+    "static/media/facebook.png": "/static/media/facebook.636688f04a2761deec6d.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/what.webp": "/static/media/what.816e053c4fa8f17d002f.webp",
+    "static/media/facebook.webp": "/static/media/facebook.506c6b264bbcf0f9e86c.webp",
+    "static/media/twitter.png": "/static/media/twitter.157b87ed60086cb763e6.png",
+    "static/media/whatsaap.png": "/static/media/whatsaap.5fc400c4b153fc178ad7.png",
+    "static/media/google-map.png": "/static/media/google-map.9cd98cdf6cc619102a9b.png",
+    "static/media/signup-image.jpg": "/static/media/signup-image.bd994738c4eb8deb2801.jpg",
+    "static/media/phone.png": "/static/media/phone.9f67e819001cd616ba13.png",
+    "static/media/logo.jpg": "/static/media/logo.e752704cb9cb4fbfc55a.jpg",
+    "static/media/youtube.webp": "/static/media/youtube.c9440b971edb44b6c66c.webp",
+    "static/media/email.webp": "/static/media/email.060ff0940426532fda65.webp",
+    "index.html": "/index.html",
+    "main.a5bd060d.css.map": "/static/css/main.a5bd060d.css.map",
+    "main.0bb1753d.js.map": "/static/js/main.0bb1753d.js.map",
+    "787.d0ac22ec.chunk.js.map": "/static/js/787.d0ac22ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5bd060d.css",
+    "static/js/main.0bb1753d.js"
+  ]
+}
